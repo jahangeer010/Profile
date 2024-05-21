@@ -1,0 +1,112 @@
+
+
+........................................urgent Work..................................................................
+
+Step 00 First get Certificate of Udemy Javscript Course canot done due to internet problem
+URL is >>> https://www.udemy.com/course/javascript-learn-javascript-essentials-and-build-project/learn/lecture/5829632?start=0#content
+C:\Windows\System32\cmd.exe
+In Free Time learn Yahoo Baba CSS
+then move to Step 1 
+Step 01
+ReactJS  Admin Panel
+https://youtu.be/fq7k_gVV5x8?si=-_OsRgOd67GHVv6D  
+Working path
+G:\New UdemyPlus\ReactAdmin
+Step 02
+Advance Java Script
+https://www.youtube.com/playlist?list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG
+
+Step 03
+Interview Topics JavaScript
+https://www.youtube.com/watch?v=gUUCmRJjVvo
+Interview PRojects
+https://www.youtube.com/watch?v=5ZdHfJVAY-s
+
+Step 04
+Mern Stack Project
+https://www.youtube.com/watch?v=LH-S5v-D3hA
+15 hours project
+https://www.youtube.com/watch?v=YdBy9-0pER4
+Step 05
+GITH HUB
+
+https://youtu.be/TsSjgkfAeJ0?si=S7WHXaxenfEWQfzO
+
+
+
+
+
+
+
+
+
+
+E:\ractnative video\AnotherUber  for buuilding Uber Clone done but splash screen remainng 
+G:\mern2023\NodeApi                  for mern 
+G:\mern2023\AzadMern
+G:\full stack React ntaive  Jan 2024
+E:\ractnative video\PlantApp\AnotherPlantC ----is Completed date 14-1-2024
+https://youtube.com/playlist?list=PLvN7nvnjkvpRNbWkVPLlXDYj08qP6cV_K&si=k7ndntwgAKQrU940        for learning react native with firebase
+
+
+G:\mern2023\reduxapiprac\crudapp    for api crud only
+F:\to do videos\EcomApp  error in app causes crash with custom carosal app needs more work to look like noon app 
+F:\to do videos\RecentEcom  install fresh ReactNative App	 simple ui is being done date 5-11-2023 complete ui base for more apps
+E:\ractnative video\PlantApp\AnotherEcom delete this file   in process for Ecommerce but error init
+E:\ractnative video\PlantApp  new work started 
+F:\ecommerce app\AwesomeProject installed initial app copy and confiure the Plant App Into this App 
+E:\ractnative video
+E:\ractnative video for uber clone videos
+Commands
+npx react-native run-android
+npm start -- --reset-cache  
+          use this command for reset cache
+npx react-native@0.72.6 init Hmfoods --version 0.72.6
+npx react-native run-android
+gradelw singningReport
+
+ssh -i C:\Users\hp\Downloads\ocikey\ssh-key-2023-10-29.key ubuntu@207.211.187.92
+https://syedprofile01.web.app/
+commands to setup dependencies
+setting Redux and Redux Toolkit for satate Management
+npm install react-redux
+npm install @reduxjs/toolkit
+ 
+Andriod emulator directory
+C:\Users\hp\.android\avd 
+
+
+
+k5GJ-WkE7-SFcX
+58jV-H3AC-DxzG
+BC5W-Utkv-xe7U
+MkLw-HASw-5E5y
+7QZL-u5fX-ThkJ
+
+Wkgn-gKN2-GAYR
+Qxji-dmfs-Yrid
+T7Wq-6pJn-ERRb
+HZga-Jv7W-4TPW
+qwXN-YWfF-6yhf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
